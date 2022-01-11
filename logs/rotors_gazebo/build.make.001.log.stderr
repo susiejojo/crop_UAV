@@ -1,0 +1,5 @@
+gz: symbol lookup error: /usr/lib/x86_64-linux-gnu/libgazebo_common.so.9: undefined symbol: _ZN8ignition10fuel_tools12ClientConfig12SetUserAgentERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE
+make[2]: *** [/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo/models/iris/iris.sdf] Error 127
+make[2]: *** Deleting file '/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo/models/iris/iris.sdf'
+make[1]: *** [CMakeFiles/sdf.dir/all] Error 2
+make: *** [all] Error 2

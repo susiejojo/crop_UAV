@@ -1,0 +1,58 @@
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target mav_msgs_generate_messages_nodejs
+[  0%] Built target mav_msgs_generate_messages_lisp
+[  0%] Built target mav_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target mav_msgs_generate_messages_cpp
+[  0%] Built target gazebo_msgs_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target gazebo_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target mav_msgs_generate_messages_py
+[  0%] Built target gazebo_msgs_generate_messages_cpp
+[  0%] Built target std_srvs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target gazebo_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target gazebo_msgs_generate_messages_eus
+[  0%] Built target trajectory_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target trajectory_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target trajectory_msgs_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target trajectory_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target trajectory_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_cpp
+[ 14%] [34m[1mGenerating /home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo/models/iris/iris.sdf[0m
+[ 71%] Built target waypoint_publisher
+[ 71%] Built target hovering_example
+[100%] Built target waypoint_publisher_file
+
+gz: symbol lookup error: /usr/lib/x86_64-linux-gnu/libgazebo_common.so.9: undefined symbol: _ZN8ignition10fuel_tools12ClientConfig12SetUserAgentERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE
+CMakeFiles/sdf.dir/build.make:62: recipe for target '/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo/models/iris/iris.sdf' failed
+make[2]: *** [/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo/models/iris/iris.sdf] Error 127
+make[2]: *** Deleting file '/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo/models/iris/iris.sdf'
+CMakeFiles/Makefile2:1206: recipe for target 'CMakeFiles/sdf.dir/all' failed
+make[1]: *** [CMakeFiles/sdf.dir/all] Error 2
+Makefile:140: recipe for target 'all' failed
+make: *** [all] Error 2

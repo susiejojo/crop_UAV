@@ -1,0 +1,18 @@
+make[2]: *** No rule to make target '/usr/local/lib/libboost_system.so.1.75.0', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_lidar_plugin.so'.  Stop.
+make[1]: *** [CMakeFiles/rotors_gazebo_lidar_plugin.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make[2]: *** No rule to make target '/usr/local/lib/libboost_system.so.1.75.0', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_imu_plugin.so'.  Stop.
+make[1]: *** [CMakeFiles/rotors_gazebo_imu_plugin.dir/all] Error 2
+make[2]: *** No rule to make target '/usr/local/lib/libboost_system.so.1.75.0', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_gps_plugin.so'.  Stop.
+make[1]: *** [CMakeFiles/rotors_gazebo_gps_plugin.dir/all] Error 2
+make[2]: *** No rule to make target '/usr/local/lib/libboost_system.so.1.75.0', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_magnetometer_plugin.so'.  Stop.
+make[1]: *** [CMakeFiles/rotors_gazebo_magnetometer_plugin.dir/all] Error 2
+make[2]: *** No rule to make target '/usr/local/lib/libboost_system.so.1.75.0', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_controller_interface.so'.  Stop.
+make[1]: *** [CMakeFiles/rotors_gazebo_controller_interface.dir/all] Error 2
+make[2]: *** No rule to make target '/usr/local/lib/libboost_system.so.1.75.0', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_fw_dynamics_plugin.so'.  Stop.
+make[1]: *** [CMakeFiles/rotors_gazebo_fw_dynamics_plugin.dir/all] Error 2
+make[2]: *** No rule to make target '/usr/local/lib/libboost_system.so.1.75.0', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_noisydepth_plugin.so'.  Stop.
+make[1]: *** [CMakeFiles/rotors_gazebo_noisydepth_plugin.dir/all] Error 2
+make[2]: *** No rule to make target '/usr/local/lib/libboost_system.so.1.75.0', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_ros_interface_plugin.so'.  Stop.
+make[1]: *** [CMakeFiles/rotors_gazebo_ros_interface_plugin.dir/all] Error 2
+make: *** [all] Error 2

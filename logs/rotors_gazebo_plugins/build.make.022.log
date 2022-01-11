@@ -1,0 +1,225 @@
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target rotors_comm_generate_messages_py
+[  0%] Built target rotors_comm_generate_messages_lisp
+[  0%] Built target rotors_comm_generate_messages_cpp
+[ 65%] Built target mav_msgs
+[ 65%] Built target topic_tools_generate_messages_lisp
+[ 65%] Built target topic_tools_generate_messages_nodejs
+[ 65%] Built target topic_tools_generate_messages_eus
+[ 65%] Built target rotors_comm_generate_messages_eus
+[ 65%] Built target topic_tools_generate_messages_cpp
+[ 65%] Built target octomap_msgs_generate_messages_eus
+[ 65%] Built target octomap_msgs_generate_messages_cpp
+[ 65%] Built target mav_msgs_generate_messages_py
+[ 65%] Built target mav_msgs_generate_messages_nodejs
+[ 65%] Built target mav_msgs_generate_messages_eus
+[ 65%] Built target dynamic_reconfigure_generate_messages_py
+[ 65%] Built target dynamic_reconfigure_generate_messages_eus
+[ 65%] Built target dynamic_reconfigure_generate_messages_nodejs
+[ 65%] Built target tf2_msgs_generate_messages_nodejs
+[ 65%] Built target std_srvs_generate_messages_py
+[ 65%] Built target std_srvs_generate_messages_cpp
+[ 65%] Built target geometry_msgs_generate_messages_py
+[ 65%] Built target geometry_msgs_generate_messages_lisp
+[ 65%] Built target geometry_msgs_generate_messages_eus
+[ 65%] Built target sensor_msgs_generate_messages_nodejs
+[ 65%] Built target roscpp_generate_messages_cpp
+[ 65%] Built target trajectory_msgs_generate_messages_eus
+[ 65%] Built target roscpp_generate_messages_py
+[ 65%] Built target actionlib_generate_messages_cpp
+[ 65%] Built target trajectory_msgs_generate_messages_cpp
+[ 65%] Built target gazebo_plugins_gencfg
+[ 65%] Built target dynamic_reconfigure_generate_messages_cpp
+[ 65%] Built target tf_generate_messages_py
+[ 65%] Built target std_msgs_generate_messages_cpp
+[ 65%] Built target sensor_msgs_generate_messages_py
+[ 65%] Built target nodelet_generate_messages_py
+[ 65%] Built target topic_tools_generate_messages_py
+[ 65%] Built target actionlib_msgs_generate_messages_nodejs
+[ 65%] Built target nav_msgs_generate_messages_nodejs
+[ 65%] Built target geometry_msgs_generate_messages_nodejs
+[ 65%] Built target trajectory_msgs_generate_messages_py
+[ 65%] Built target std_msgs_generate_messages_eus
+[ 65%] Built target gazebo_msgs_generate_messages_py
+[ 65%] Built target gazebo_msgs_generate_messages_eus
+[ 65%] Built target sensor_msgs_generate_messages_lisp
+[ 65%] Built target nav_msgs_generate_messages_cpp
+[ 65%] Built target rotors_comm_generate_messages_nodejs
+[ 65%] Built target octomap_msgs_generate_messages_nodejs
+[ 65%] Built target std_srvs_generate_messages_nodejs
+[ 65%] Built target nodelet_generate_messages_cpp
+[ 65%] Built target bond_generate_messages_py
+[ 65%] Built target geometry_msgs_generate_messages_cpp
+[ 65%] Built target actionlib_generate_messages_lisp
+[ 65%] Built target dynamic_reconfigure_generate_messages_lisp
+[ 65%] Built target gazebo_msgs_generate_messages_cpp
+[ 65%] Built target std_msgs_generate_messages_nodejs
+[ 65%] Built target bond_generate_messages_lisp
+[ 65%] Built target sensor_msgs_generate_messages_eus
+[ 65%] Built target roscpp_generate_messages_nodejs
+[ 65%] Built target std_msgs_generate_messages_lisp
+[ 65%] Built target sensor_msgs_generate_messages_cpp
+[ 65%] Built target gazebo_msgs_generate_messages_lisp
+[ 65%] Built target octomap_msgs_generate_messages_lisp
+[ 65%] Built target roscpp_generate_messages_lisp
+[ 65%] Built target std_srvs_generate_messages_eus
+[ 65%] Built target bond_generate_messages_eus
+[ 65%] Built target _catkin_empty_exported_target
+[ 65%] Built target std_srvs_generate_messages_lisp
+[ 65%] Built target std_msgs_generate_messages_py
+[ 65%] Built target rosgraph_msgs_generate_messages_cpp
+[ 65%] Built target gazebo_msgs_generate_messages_nodejs
+[ 65%] Built target rosgraph_msgs_generate_messages_eus
+[ 65%] Built target rosgraph_msgs_generate_messages_nodejs
+[ 65%] Built target rosgraph_msgs_generate_messages_lisp
+[ 65%] Built target nodelet_generate_messages_eus
+[ 65%] Built target nodelet_generate_messages_lisp
+[ 65%] Built target roscpp_generate_messages_eus
+[ 65%] Built target actionlib_msgs_generate_messages_eus
+[ 65%] Built target rosgraph_msgs_generate_messages_py
+[ 65%] Built target nodelet_generate_messages_nodejs
+[ 65%] Built target trajectory_msgs_generate_messages_lisp
+[ 65%] Built target bond_generate_messages_cpp
+[ 65%] Built target actionlib_msgs_generate_messages_cpp
+[ 65%] Built target trajectory_msgs_generate_messages_nodejs
+[ 65%] Built target bond_generate_messages_nodejs
+[ 65%] Built target tf_generate_messages_eus
+[ 65%] Built target tf2_msgs_generate_messages_eus
+[ 65%] Built target nav_msgs_generate_messages_eus
+[ 65%] Built target nav_msgs_generate_messages_lisp
+[ 65%] Built target tf2_msgs_generate_messages_lisp
+[ 65%] Built target dynamic_reconfigure_gencfg
+[ 65%] Built target actionlib_msgs_generate_messages_py
+[ 65%] Built target mav_msgs_generate_messages_cpp
+[ 65%] Built target nav_msgs_generate_messages_py
+[ 65%] Built target actionlib_msgs_generate_messages_lisp
+[ 65%] Built target mav_msgs_generate_messages_lisp
+[ 65%] Built target tf_generate_messages_lisp
+[ 65%] Built target octomap_msgs_generate_messages_py
+[ 65%] Built target tf_generate_messages_nodejs
+[ 65%] Built target actionlib_generate_messages_eus
+[ 65%] Built target tf_generate_messages_cpp
+[ 65%] Built target actionlib_generate_messages_nodejs
+[ 65%] Built target tf2_msgs_generate_messages_py
+[ 65%] Built target actionlib_generate_messages_py
+make[2]: *** No rule to make target '/usr/lib/x86_64-linux-gnu/libignition-common1.so.1.0.1', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_wind_plugin.so'.  Stop.
+make[2]: *** Waiting for unfinished jobs....
+make[2]: *** No rule to make target '/usr/lib/x86_64-linux-gnu/libignition-common1.so.1.0.1', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_imu_plugin.so'.  Stop.
+make[2]: *** Waiting for unfinished jobs....
+make[2]: *** No rule to make target '/usr/lib/x86_64-linux-gnu/libignition-common1.so.1.0.1', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_odometry_plugin.so'.  Stop.
+make[2]: *** Waiting for unfinished jobs....
+make[2]: *** No rule to make target '/usr/lib/x86_64-linux-gnu/libignition-common1.so.1.0.1', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_fw_dynamics_plugin.so'.  Stop.
+make[2]: *** Waiting for unfinished jobs....
+[ 66%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_odometry_plugin.dir/src/gazebo_odometry_plugin.cpp.o[0m
+[ 67%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_wind_plugin.dir/src/gazebo_wind_plugin.cpp.o[0m
+[ 67%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_imu_plugin.dir/src/gazebo_imu_plugin.cpp.o[0m
+make[2]: *** No rule to make target '/usr/lib/x86_64-linux-gnu/libignition-common1.so.1.0.1', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_lidar_plugin.so'.  Stop.
+make[2]: *** Waiting for unfinished jobs....
+[ 68%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_fw_dynamics_plugin.dir/src/gazebo_fw_dynamics_plugin.cpp.o[0m
+[ 69%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_lidar_plugin.dir/src/external/gazebo_lidar_plugin.cpp.o[0m
+make[2]: *** No rule to make target '/usr/lib/x86_64-linux-gnu/libignition-common1.so.1.0.1', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_gps_plugin.so'.  Stop.
+make[2]: *** Waiting for unfinished jobs....
+[ 70%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_gps_plugin.dir/src/gazebo_gps_plugin.cpp.o[0m
+In file included from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_fw_dynamics_plugin.h:20:0[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_fw_dynamics_plugin.cpp:18[m[K:
+[01m[K/usr/include/gazebo-9/gazebo/common/Plugin.hh:33:10:[m[K [01;31m[Kfatal error: [m[Ksdf/sdf.hh: No such file or directory
+ #include [01;31m[K<sdf/sdf.hh>[m[K
+          [01;31m[K^~~~~~~~~~~~[m[K
+compilation terminated.
+CMakeFiles/rotors_gazebo_fw_dynamics_plugin.dir/build.make:62: recipe for target 'CMakeFiles/rotors_gazebo_fw_dynamics_plugin.dir/src/gazebo_fw_dynamics_plugin.cpp.o' failed
+make[2]: *** [CMakeFiles/rotors_gazebo_fw_dynamics_plugin.dir/src/gazebo_fw_dynamics_plugin.cpp.o] Error 1
+make[1]: *** [CMakeFiles/rotors_gazebo_fw_dynamics_plugin.dir/all] Error 2
+CMakeFiles/Makefile2:1111: recipe for target 'CMakeFiles/rotors_gazebo_fw_dynamics_plugin.dir/all' failed
+make[1]: *** Waiting for unfinished jobs....
+make[2]: *** No rule to make target '/usr/lib/x86_64-linux-gnu/libignition-common1.so.1.0.1', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_ros_interface_plugin.so'.  Stop.
+make[2]: *** Waiting for unfinished jobs....
+[ 71%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_ros_interface_plugin.dir/src/gazebo_ros_interface_plugin.cpp.o[0m
+make[2]: *** No rule to make target '/usr/lib/x86_64-linux-gnu/libignition-common1.so.1.0.1', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_noisydepth_plugin.so'.  Stop.
+make[2]: *** Waiting for unfinished jobs....
+[ 73%] [32mBuilding CXX object CMakeFiles/rotors_gazebo_noisydepth_plugin.dir/src/gazebo_noisydepth_plugin.cpp.o[0m
+In file included from [01m[K/usr/include/gazebo-9/gazebo/common/common.hh:8:0[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_wind_plugin.h:28[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_wind_plugin.cpp:22[m[K:
+[01m[K/usr/include/gazebo-9/gazebo/common/Battery.hh:25:10:[m[K [01;31m[Kfatal error: [m[Ksdf/sdf.hh: No such file or directory
+ #include [01;31m[K"sdf/sdf.hh"[m[K
+          [01;31m[K^~~~~~~~~~~~[m[K
+compilation terminated.
+CMakeFiles/rotors_gazebo_wind_plugin.dir/build.make:62: recipe for target 'CMakeFiles/rotors_gazebo_wind_plugin.dir/src/gazebo_wind_plugin.cpp.o' failed
+make[2]: *** [CMakeFiles/rotors_gazebo_wind_plugin.dir/src/gazebo_wind_plugin.cpp.o] Error 1
+CMakeFiles/Makefile2:170: recipe for target 'CMakeFiles/rotors_gazebo_wind_plugin.dir/all' failed
+make[1]: *** [CMakeFiles/rotors_gazebo_wind_plugin.dir/all] Error 2
+In file included from [01m[K/usr/include/gazebo-9/gazebo/common/common.hh:8:0[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_odometry_plugin.h:33[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_odometry_plugin.cpp:23[m[K:
+[01m[K/usr/include/gazebo-9/gazebo/common/Battery.hh:25:10:[m[K [01;31m[Kfatal error: [m[Ksdf/sdf.hh: No such file or directory
+ #include [01;31m[K"sdf/sdf.hh"[m[K
+          [01;31m[K^~~~~~~~~~~~[m[K
+compilation terminated.
+CMakeFiles/rotors_gazebo_odometry_plugin.dir/build.make:62: recipe for target 'CMakeFiles/rotors_gazebo_odometry_plugin.dir/src/gazebo_odometry_plugin.cpp.o' failed
+make[2]: *** [CMakeFiles/rotors_gazebo_odometry_plugin.dir/src/gazebo_odometry_plugin.cpp.o] Error 1
+CMakeFiles/Makefile2:310: recipe for target 'CMakeFiles/rotors_gazebo_odometry_plugin.dir/all' failed
+make[1]: *** [CMakeFiles/rotors_gazebo_odometry_plugin.dir/all] Error 2
+In file included from [01m[K/usr/include/gazebo-9/gazebo/common/common.hh:8:0[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/gazebo_core.hh:19[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/gazebo.hh:20[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_gps_plugin.h:25[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_gps_plugin.cpp:19[m[K:
+[01m[K/usr/include/gazebo-9/gazebo/common/Battery.hh:25:10:[m[K [01;31m[Kfatal error: [m[Ksdf/sdf.hh: No such file or directory
+ #include [01;31m[K"sdf/sdf.hh"[m[K
+          [01;31m[K^~~~~~~~~~~~[m[K
+compilation terminated.
+CMakeFiles/rotors_gazebo_gps_plugin.dir/build.make:62: recipe for target 'CMakeFiles/rotors_gazebo_gps_plugin.dir/src/gazebo_gps_plugin.cpp.o' failed
+make[2]: *** [CMakeFiles/rotors_gazebo_gps_plugin.dir/src/gazebo_gps_plugin.cpp.o] Error 1
+CMakeFiles/Makefile2:1315: recipe for target 'CMakeFiles/rotors_gazebo_gps_plugin.dir/all' failed
+make[1]: *** [CMakeFiles/rotors_gazebo_gps_plugin.dir/all] Error 2
+In file included from [01m[K/usr/include/gazebo-9/gazebo/common/common.hh:8:0[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_imu_plugin.h:28[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_imu_plugin.cpp:23[m[K:
+[01m[K/usr/include/gazebo-9/gazebo/common/Battery.hh:25:10:[m[K [01;31m[Kfatal error: [m[Ksdf/sdf.hh: No such file or directory
+ #include [01;31m[K"sdf/sdf.hh"[m[K
+          [01;31m[K^~~~~~~~~~~~[m[K
+compilation terminated.
+CMakeFiles/rotors_gazebo_imu_plugin.dir/build.make:62: recipe for target 'CMakeFiles/rotors_gazebo_imu_plugin.dir/src/gazebo_imu_plugin.cpp.o' failed
+make[2]: *** [CMakeFiles/rotors_gazebo_imu_plugin.dir/src/gazebo_imu_plugin.cpp.o] Error 1
+CMakeFiles/Makefile2:902: recipe for target 'CMakeFiles/rotors_gazebo_imu_plugin.dir/all' failed
+make[1]: *** [CMakeFiles/rotors_gazebo_imu_plugin.dir/all] Error 2
+In file included from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_ros_interface_plugin.h:24:0[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ros_interface_plugin.cpp:18[m[K:
+[01m[K/usr/include/gazebo-9/gazebo/common/Plugin.hh:33:10:[m[K [01;31m[Kfatal error: [m[Ksdf/sdf.hh: No such file or directory
+ #include [01;31m[K<sdf/sdf.hh>[m[K
+          [01;31m[K^~~~~~~~~~~~[m[K
+compilation terminated.
+CMakeFiles/rotors_gazebo_ros_interface_plugin.dir/build.make:62: recipe for target 'CMakeFiles/rotors_gazebo_ros_interface_plugin.dir/src/gazebo_ros_interface_plugin.cpp.o' failed
+make[2]: *** [CMakeFiles/rotors_gazebo_ros_interface_plugin.dir/src/gazebo_ros_interface_plugin.cpp.o] Error 1
+CMakeFiles/Makefile2:762: recipe for target 'CMakeFiles/rotors_gazebo_ros_interface_plugin.dir/all' failed
+make[1]: *** [CMakeFiles/rotors_gazebo_ros_interface_plugin.dir/all] Error 2
+In file included from [01m[K/usr/include/gazebo-9/gazebo/physics/ModelState.hh:28:0[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/physics/Model.hh:29[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/physics/Actor.hh:26[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/physics/physics.hh:2[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/src/external/gazebo_lidar_plugin.cpp:22[m[K:
+[01m[K/usr/include/gazebo-9/gazebo/physics/State.hh:26:10:[m[K [01;31m[Kfatal error: [m[Ksdf/sdf.hh: No such file or directory
+ #include [01;31m[K<sdf/sdf.hh>[m[K
+          [01;31m[K^~~~~~~~~~~~[m[K
+compilation terminated.
+CMakeFiles/rotors_gazebo_lidar_plugin.dir/build.make:62: recipe for target 'CMakeFiles/rotors_gazebo_lidar_plugin.dir/src/external/gazebo_lidar_plugin.cpp.o' failed
+make[2]: *** [CMakeFiles/rotors_gazebo_lidar_plugin.dir/src/external/gazebo_lidar_plugin.cpp.o] Error 1
+CMakeFiles/Makefile2:482: recipe for target 'CMakeFiles/rotors_gazebo_lidar_plugin.dir/all' failed
+make[1]: *** [CMakeFiles/rotors_gazebo_lidar_plugin.dir/all] Error 2
+In file included from [01m[K/usr/include/gazebo-9/gazebo/physics/ModelState.hh:28:0[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/physics/Model.hh:29[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/physics/Actor.hh:26[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/physics/physics.hh:2[m[K,
+                 from [01m[K/opt/ros/melodic/include/gazebo_plugins/gazebo_ros_camera_utils.h:45[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_noisydepth_plugin.h:35[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_noisydepth_plugin.cpp:24[m[K:
+[01m[K/usr/include/gazebo-9/gazebo/physics/State.hh:26:10:[m[K [01;31m[Kfatal error: [m[Ksdf/sdf.hh: No such file or directory
+ #include [01;31m[K<sdf/sdf.hh>[m[K
+          [01;31m[K^~~~~~~~~~~~[m[K
+compilation terminated.
+CMakeFiles/rotors_gazebo_noisydepth_plugin.dir/build.make:62: recipe for target 'CMakeFiles/rotors_gazebo_noisydepth_plugin.dir/src/gazebo_noisydepth_plugin.cpp.o' failed
+make[2]: *** [CMakeFiles/rotors_gazebo_noisydepth_plugin.dir/src/gazebo_noisydepth_plugin.cpp.o] Error 1
+CMakeFiles/Makefile2:622: recipe for target 'CMakeFiles/rotors_gazebo_noisydepth_plugin.dir/all' failed
+make[1]: *** [CMakeFiles/rotors_gazebo_noisydepth_plugin.dir/all] Error 2
+Makefile:140: recipe for target 'all' failed
+make: *** [all] Error 2

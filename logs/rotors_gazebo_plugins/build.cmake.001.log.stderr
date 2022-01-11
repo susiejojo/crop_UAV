@@ -1,0 +1,20 @@
+[31m[1mCMake Error[0m at /usr/local/lib/cmake/Boost-1.75.0/BoostConfig.cmake:141 (find_package):
+  Could not find a package configuration file provided by "boost_signals"
+  (requested version 1.75.0) with any of the following names:
+
+    boost_signalsConfig.cmake
+    boost_signals-config.cmake
+
+  Add the installation prefix of "boost_signals" to CMAKE_PREFIX_PATH or set
+  "boost_signals_DIR" to a directory containing one of the above files.  If
+  "boost_signals" provides a separate development package or SDK, be sure it
+  has been installed.
+[36mCall Stack (most recent call first):[0m
+  /usr/local/lib/cmake/Boost-1.75.0/BoostConfig.cmake:258 (boost_find_component)
+  /usr/share/cmake-3.10/Modules/FindBoost.cmake:242 (find_package)
+  /usr/lib/x86_64-linux-gnu/cmake/gazebo/gazebo-config.cmake:159 (find_package)
+  /opt/ros/melodic/share/gazebo_dev/cmake/gazebo_dev-extras.cmake:2 (find_package)
+  /opt/ros/melodic/share/gazebo_dev/cmake/gazebo_devConfig.cmake:222 (include)
+  CMakeLists.txt:125 (find_package)
+
+

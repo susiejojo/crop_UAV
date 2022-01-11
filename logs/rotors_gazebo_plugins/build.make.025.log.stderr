@@ -1,0 +1,96 @@
+make[2]: *** No rule to make target '/usr/lib/x86_64-linux-gnu/libignition-common1.so.1.0.1', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_wind_plugin.so'.  Stop.
+make[2]: *** Waiting for unfinished jobs....
+make[2]: *** No rule to make target '/usr/lib/x86_64-linux-gnu/libignition-common1.so.1.0.1', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_imu_plugin.so'.  Stop.
+make[2]: *** Waiting for unfinished jobs....
+make[2]: *** No rule to make target '/usr/lib/x86_64-linux-gnu/libignition-common1.so.1.0.1', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_odometry_plugin.so'.  Stop.
+make[2]: *** Waiting for unfinished jobs....
+make[2]: *** No rule to make target '/usr/lib/x86_64-linux-gnu/libignition-common1.so.1.0.1', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_fw_dynamics_plugin.so'.  Stop.
+make[2]: *** Waiting for unfinished jobs....
+make[2]: *** No rule to make target '/usr/lib/x86_64-linux-gnu/libignition-common1.so.1.0.1', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_lidar_plugin.so'.  Stop.
+make[2]: *** Waiting for unfinished jobs....
+make[2]: *** No rule to make target '/usr/lib/x86_64-linux-gnu/libignition-common1.so.1.0.1', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_gps_plugin.so'.  Stop.
+make[2]: *** Waiting for unfinished jobs....
+In file included from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_fw_dynamics_plugin.h:20:0[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_fw_dynamics_plugin.cpp:18[m[K:
+[01m[K/usr/include/gazebo-9/gazebo/common/Plugin.hh:33:10:[m[K [01;31m[Kfatal error: [m[Ksdf/sdf.hh: No such file or directory
+ #include [01;31m[K<sdf/sdf.hh>[m[K
+          [01;31m[K^~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/rotors_gazebo_fw_dynamics_plugin.dir/src/gazebo_fw_dynamics_plugin.cpp.o] Error 1
+make[1]: *** [CMakeFiles/rotors_gazebo_fw_dynamics_plugin.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make[2]: *** No rule to make target '/usr/lib/x86_64-linux-gnu/libignition-common1.so.1.0.1', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_ros_interface_plugin.so'.  Stop.
+make[2]: *** Waiting for unfinished jobs....
+make[2]: *** No rule to make target '/usr/lib/x86_64-linux-gnu/libignition-common1.so.1.0.1', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_noisydepth_plugin.so'.  Stop.
+make[2]: *** Waiting for unfinished jobs....
+In file included from [01m[K/usr/include/gazebo-9/gazebo/common/common.hh:8:0[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_wind_plugin.h:28[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_wind_plugin.cpp:22[m[K:
+[01m[K/usr/include/gazebo-9/gazebo/common/Battery.hh:25:10:[m[K [01;31m[Kfatal error: [m[Ksdf/sdf.hh: No such file or directory
+ #include [01;31m[K"sdf/sdf.hh"[m[K
+          [01;31m[K^~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/rotors_gazebo_wind_plugin.dir/src/gazebo_wind_plugin.cpp.o] Error 1
+make[1]: *** [CMakeFiles/rotors_gazebo_wind_plugin.dir/all] Error 2
+In file included from [01m[K/usr/include/gazebo-9/gazebo/common/common.hh:8:0[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_odometry_plugin.h:33[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_odometry_plugin.cpp:23[m[K:
+[01m[K/usr/include/gazebo-9/gazebo/common/Battery.hh:25:10:[m[K [01;31m[Kfatal error: [m[Ksdf/sdf.hh: No such file or directory
+ #include [01;31m[K"sdf/sdf.hh"[m[K
+          [01;31m[K^~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/rotors_gazebo_odometry_plugin.dir/src/gazebo_odometry_plugin.cpp.o] Error 1
+make[1]: *** [CMakeFiles/rotors_gazebo_odometry_plugin.dir/all] Error 2
+In file included from [01m[K/usr/include/gazebo-9/gazebo/common/common.hh:8:0[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/gazebo_core.hh:19[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/gazebo.hh:20[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_gps_plugin.h:25[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_gps_plugin.cpp:19[m[K:
+[01m[K/usr/include/gazebo-9/gazebo/common/Battery.hh:25:10:[m[K [01;31m[Kfatal error: [m[Ksdf/sdf.hh: No such file or directory
+ #include [01;31m[K"sdf/sdf.hh"[m[K
+          [01;31m[K^~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/rotors_gazebo_gps_plugin.dir/src/gazebo_gps_plugin.cpp.o] Error 1
+make[1]: *** [CMakeFiles/rotors_gazebo_gps_plugin.dir/all] Error 2
+In file included from [01m[K/usr/include/gazebo-9/gazebo/common/common.hh:8:0[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_imu_plugin.h:28[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_imu_plugin.cpp:23[m[K:
+[01m[K/usr/include/gazebo-9/gazebo/common/Battery.hh:25:10:[m[K [01;31m[Kfatal error: [m[Ksdf/sdf.hh: No such file or directory
+ #include [01;31m[K"sdf/sdf.hh"[m[K
+          [01;31m[K^~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/rotors_gazebo_imu_plugin.dir/src/gazebo_imu_plugin.cpp.o] Error 1
+make[1]: *** [CMakeFiles/rotors_gazebo_imu_plugin.dir/all] Error 2
+In file included from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_ros_interface_plugin.h:24:0[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_ros_interface_plugin.cpp:18[m[K:
+[01m[K/usr/include/gazebo-9/gazebo/common/Plugin.hh:33:10:[m[K [01;31m[Kfatal error: [m[Ksdf/sdf.hh: No such file or directory
+ #include [01;31m[K<sdf/sdf.hh>[m[K
+          [01;31m[K^~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/rotors_gazebo_ros_interface_plugin.dir/src/gazebo_ros_interface_plugin.cpp.o] Error 1
+make[1]: *** [CMakeFiles/rotors_gazebo_ros_interface_plugin.dir/all] Error 2
+In file included from [01m[K/usr/include/gazebo-9/gazebo/physics/ModelState.hh:28:0[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/physics/Model.hh:29[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/physics/Actor.hh:26[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/physics/physics.hh:2[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/src/external/gazebo_lidar_plugin.cpp:22[m[K:
+[01m[K/usr/include/gazebo-9/gazebo/physics/State.hh:26:10:[m[K [01;31m[Kfatal error: [m[Ksdf/sdf.hh: No such file or directory
+ #include [01;31m[K<sdf/sdf.hh>[m[K
+          [01;31m[K^~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/rotors_gazebo_lidar_plugin.dir/src/external/gazebo_lidar_plugin.cpp.o] Error 1
+make[1]: *** [CMakeFiles/rotors_gazebo_lidar_plugin.dir/all] Error 2
+In file included from [01m[K/usr/include/gazebo-9/gazebo/physics/ModelState.hh:28:0[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/physics/Model.hh:29[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/physics/Actor.hh:26[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/physics/physics.hh:2[m[K,
+                 from [01m[K/opt/ros/melodic/include/gazebo_plugins/gazebo_ros_camera_utils.h:45[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_noisydepth_plugin.h:35[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_noisydepth_plugin.cpp:24[m[K:
+[01m[K/usr/include/gazebo-9/gazebo/physics/State.hh:26:10:[m[K [01;31m[Kfatal error: [m[Ksdf/sdf.hh: No such file or directory
+ #include [01;31m[K<sdf/sdf.hh>[m[K
+          [01;31m[K^~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/rotors_gazebo_noisydepth_plugin.dir/src/gazebo_noisydepth_plugin.cpp.o] Error 1
+make[1]: *** [CMakeFiles/rotors_gazebo_noisydepth_plugin.dir/all] Error 2
+make: *** [all] Error 2

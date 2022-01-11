@@ -1,0 +1,138 @@
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_eus[0m
+[  0%] Built target mav_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target mav_msgs_generate_messages_lisp
+[  0%] Built target mav_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target gazebo_msgs_generate_messages_lisp
+[  0%] Built target mav_msgs_generate_messages_cpp
+[  0%] Built target gazebo_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target mav_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target gazebo_msgs_generate_messages_py[0m
+[  0%] Built target mav_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_srvs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target gazebo_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target gazebo_msgs_generate_messages_eus
+[  0%] Built target gazebo_msgs_generate_messages_py
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target trajectory_msgs_generate_messages_py
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target trajectory_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_eus[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target trajectory_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_lisp[0m
+[  0%] Built target trajectory_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target trajectory_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sdf[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target std_srvs_generate_messages_eus
+[ 14%] [34m[1mGenerating /home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo/models/iris/iris.sdf[0m
+[ 14%] Built target std_srvs_generate_messages_cpp
+[35m[1mScanning dependencies of target waypoint_publisher_file[0m
+[35m[1mScanning dependencies of target hovering_example[0m
+[35m[1mScanning dependencies of target waypoint_publisher[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/waypoint_publisher_file.dir/src/waypoint_publisher_file.cpp.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/waypoint_publisher.dir/src/waypoint_publisher.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/hovering_example.dir/src/hovering_example.cpp.o[0m
+
+In file included from [01m[K/opt/ros/melodic/include/ros/publisher.h:35:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/node_handle.h:32[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/mav_comm/mav_msgs/include/mav_msgs/conversions.h:32[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo/src/waypoint_publisher.cpp:25[m[K:
+[01m[K/usr/local/include/boost/bind.hpp:41:1:[m[K [01;36m[Knote: [m[K#pragma message: The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+ [01;36m[K)[m[K
+ [01;36m[K^[m[K
+In file included from [01m[K/opt/ros/melodic/include/ros/publisher.h:35:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/node_handle.h:32[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/mav_comm/mav_msgs/include/mav_msgs/conversions.h:32[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo/src/hovering_example.cpp:25[m[K:
+[01m[K/usr/local/include/boost/bind.hpp:41:1:[m[K [01;36m[Knote: [m[K#pragma message: The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+ [01;36m[K)[m[K
+ [01;36m[K^[m[K
+In file included from [01m[K/opt/ros/melodic/include/ros/publisher.h:35:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/node_handle.h:32[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/mav_comm/mav_msgs/include/mav_msgs/conversions.h:32[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo/src/waypoint_publisher_file.cpp:25[m[K:
+[01m[K/usr/local/include/boost/bind.hpp:41:1:[m[K [01;36m[Knote: [m[K#pragma message: The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+ [01;36m[K)[m[K
+ [01;36m[K^[m[K
+gz: symbol lookup error: /usr/lib/x86_64-linux-gnu/libgazebo_common.so.9: undefined symbol: _ZN8ignition10fuel_tools12ClientConfig12SetUserAgentERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE
+CMakeFiles/sdf.dir/build.make:62: recipe for target '/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo/models/iris/iris.sdf' failed
+make[2]: *** [/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo/models/iris/iris.sdf] Error 127
+make[2]: *** Deleting file '/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo/models/iris/iris.sdf'
+CMakeFiles/Makefile2:1206: recipe for target 'CMakeFiles/sdf.dir/all' failed
+make[1]: *** [CMakeFiles/sdf.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+[ 71%] [32m[1mLinking CXX executable /home/susiejojo/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/waypoint_publisher[0m
+[ 85%] [32m[1mLinking CXX executable /home/susiejojo/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/hovering_example[0m
+[ 85%] Built target waypoint_publisher
+[ 85%] Built target hovering_example
+[100%] [32m[1mLinking CXX executable /home/susiejojo/catkin_ws/devel/.private/rotors_gazebo/lib/rotors_gazebo/waypoint_publisher_file[0m
+[100%] Built target waypoint_publisher_file
+Makefile:140: recipe for target 'all' failed
+make: *** [all] Error 2

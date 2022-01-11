@@ -1,0 +1,41 @@
+In file included from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_motor_model.h:29:0[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_motor_model.cpp:22[m[K:
+[01m[K/usr/local/include/boost/bind.hpp:41:1:[m[K [01;36m[Knote: [m[K#pragma message: The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+ [01;36m[K)[m[K
+ [01;36m[K^[m[K
+In file included from [01m[K/usr/include/gazebo-9/gazebo/common/MovingWindowFilter.hh:26:0[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/common/common.hh:21[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_multirotor_base_plugin.h:28[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_multirotor_base_plugin.cpp:23[m[K:
+[01m[K/usr/local/include/boost/bind.hpp:41:1:[m[K [01;36m[Knote: [m[K#pragma message: The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+ [01;36m[K)[m[K
+ [01;36m[K^[m[K
+In file included from [01m[K/usr/include/gazebo-9/gazebo/common/MovingWindowFilter.hh:26:0[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/common/common.hh:21[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_pressure_plugin.h:25[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_pressure_plugin.cpp:18[m[K:
+[01m[K/usr/local/include/boost/bind.hpp:41:1:[m[K [01;36m[Knote: [m[K#pragma message: The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+ [01;36m[K)[m[K
+ [01;36m[K^[m[K
+In file included from [01m[K/usr/include/gazebo-9/gazebo/common/MovingWindowFilter.hh:26:0[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/common/common.hh:21[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_bag_plugin.h:28[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_bag_plugin.cpp:22[m[K:
+[01m[K/usr/local/include/boost/bind.hpp:41:1:[m[K [01;36m[Knote: [m[K#pragma message: The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+ [01;36m[K)[m[K
+ [01;36m[K^[m[K
+In file included from [01m[K/usr/include/gazebo-9/gazebo/transport/Connection.hh:24:0[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/transport/transport.hh:3[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/src/liftdrag_plugin/liftdrag_plugin.cpp:24[m[K:
+[01m[K/usr/local/include/boost/bind.hpp:41:1:[m[K [01;36m[Knote: [m[K#pragma message: The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+ [01;36m[K)[m[K
+ [01;36m[K^[m[K
+In file included from [01m[K/usr/include/gazebo-9/gazebo/common/MovingWindowFilter.hh:26:0[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/common/common.hh:21[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/gazebo_core.hh:19[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/gazebo.hh:20[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/external/gazebo_geotagged_images_plugin.h:23[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/src/external/gazebo_geotagged_images_plugin.cpp:18[m[K:
+[01m[K/usr/local/include/boost/bind.hpp:41:1:[m[K [01;36m[Knote: [m[K#pragma message: The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+ [01;36m[K)[m[K
+ [01;36m[K^[m[K

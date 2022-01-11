@@ -1,0 +1,42 @@
+make[2]: *** No rule to make target '/usr/local/lib/libboost_system.so.1.75.0', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_imu_plugin.so'.  Stop.
+make[1]: *** [CMakeFiles/rotors_gazebo_imu_plugin.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make[2]: *** No rule to make target '/usr/local/lib/libboost_system.so.1.75.0', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_fw_dynamics_plugin.so'.  Stop.
+make[1]: *** [CMakeFiles/rotors_gazebo_fw_dynamics_plugin.dir/all] Error 2
+make[2]: *** No rule to make target '/usr/local/lib/libboost_system.so.1.75.0', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_lidar_plugin.so'.  Stop.
+make[1]: *** [CMakeFiles/rotors_gazebo_lidar_plugin.dir/all] Error 2
+make[2]: *** No rule to make target '/usr/local/lib/libboost_system.so.1.75.0', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_ros_interface_plugin.so'.  Stop.
+make[1]: *** [CMakeFiles/rotors_gazebo_ros_interface_plugin.dir/all] Error 2
+make[2]: *** No rule to make target '/usr/local/lib/libboost_system.so.1.75.0', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_noisydepth_plugin.so'.  Stop.
+make[1]: *** [CMakeFiles/rotors_gazebo_noisydepth_plugin.dir/all] Error 2
+make[2]: *** No rule to make target '/usr/local/lib/libboost_system.so.1.75.0', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_gps_plugin.so'.  Stop.
+make[2]: *** Waiting for unfinished jobs....
+make[2]: *** No rule to make target '/usr/local/lib/libboost_system.so.1.75.0', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_controller_interface.so'.  Stop.
+make[2]: *** Waiting for unfinished jobs....
+make[2]: *** No rule to make target '/usr/local/lib/libboost_system.so.1.75.0', needed by '/home/susiejojo/catkin_ws/devel/.private/rotors_gazebo_plugins/lib/librotors_gazebo_magnetometer_plugin.so'.  Stop.
+make[2]: *** Waiting for unfinished jobs....
+In file included from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_controller_interface.h:26:0[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_controller_interface.cpp:22[m[K:
+[01m[K/usr/local/include/boost/bind.hpp:41:1:[m[K [01;36m[Knote: [m[K#pragma message: The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+ [01;36m[K)[m[K
+ [01;36m[K^[m[K
+In file included from [01m[K/usr/include/gazebo-9/gazebo/common/MovingWindowFilter.hh:26:0[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/common/common.hh:21[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/gazebo_core.hh:19[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/gazebo.hh:20[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_gps_plugin.h:25[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_gps_plugin.cpp:19[m[K:
+[01m[K/usr/local/include/boost/bind.hpp:41:1:[m[K [01;36m[Knote: [m[K#pragma message: The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+ [01;36m[K)[m[K
+ [01;36m[K^[m[K
+In file included from [01m[K/usr/include/gazebo-9/gazebo/common/MovingWindowFilter.hh:26:0[m[K,
+                 from [01m[K/usr/include/gazebo-9/gazebo/common/common.hh:21[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/include/rotors_gazebo_plugins/gazebo_magnetometer_plugin.h:22[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo_plugins/src/gazebo_magnetometer_plugin.cpp:18[m[K:
+[01m[K/usr/local/include/boost/bind.hpp:41:1:[m[K [01;36m[Knote: [m[K#pragma message: The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+ [01;36m[K)[m[K
+ [01;36m[K^[m[K
+make[1]: *** [CMakeFiles/rotors_gazebo_magnetometer_plugin.dir/all] Error 2
+make[1]: *** [CMakeFiles/rotors_gazebo_gps_plugin.dir/all] Error 2
+make[1]: *** [CMakeFiles/rotors_gazebo_controller_interface.dir/all] Error 2
+make: *** [all] Error 2

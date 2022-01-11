@@ -1,0 +1,55 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/susiejojo/catkin_ws/build/mav_planning_msgs/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_a43ed/fast"
+/usr/bin/make -f CMakeFiles/cmTC_a43ed.dir/build.make CMakeFiles/cmTC_a43ed.dir/build
+make[1]: Entering directory '/home/susiejojo/catkin_ws/build/mav_planning_msgs/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a43ed.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_a43ed.dir/CheckSymbolExists.c.o   -c /home/susiejojo/catkin_ws/build/mav_planning_msgs/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_a43ed
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a43ed.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_a43ed.dir/CheckSymbolExists.c.o  -o cmTC_a43ed 
+CMakeFiles/cmTC_a43ed.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x1b): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_a43ed.dir/build.make:97: recipe for target 'cmTC_a43ed' failed
+make[1]: *** [cmTC_a43ed] Error 1
+make[1]: Leaving directory '/home/susiejojo/catkin_ws/build/mav_planning_msgs/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_a43ed/fast' failed
+make: *** [cmTC_a43ed/fast] Error 2
+
+File /home/susiejojo/catkin_ws/build/mav_planning_msgs/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/susiejojo/catkin_ws/build/mav_planning_msgs/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_1fd8c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_1fd8c.dir/build.make CMakeFiles/cmTC_1fd8c.dir/build
+make[1]: Entering directory '/home/susiejojo/catkin_ws/build/mav_planning_msgs/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_1fd8c.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_1fd8c.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_1fd8c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_1fd8c.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_1fd8c.dir/CheckFunctionExists.c.o  -o cmTC_1fd8c -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_1fd8c.dir/build.make:97: recipe for target 'cmTC_1fd8c' failed
+make[1]: *** [cmTC_1fd8c] Error 1
+make[1]: Leaving directory '/home/susiejojo/catkin_ws/build/mav_planning_msgs/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_1fd8c/fast' failed
+make: *** [cmTC_1fd8c/fast] Error 2
+
+

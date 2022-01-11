@@ -1,0 +1,30 @@
+In file included from [01m[K/opt/ros/melodic/include/ros/publisher.h:35:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/node_handle.h:32[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/mav_comm/mav_msgs/include/mav_msgs/conversions.h:32[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo/src/waypoint_publisher.cpp:25[m[K:
+[01m[K/usr/local/include/boost/bind.hpp:41:1:[m[K [01;36m[Knote: [m[K#pragma message: The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+ [01;36m[K)[m[K
+ [01;36m[K^[m[K
+In file included from [01m[K/opt/ros/melodic/include/ros/publisher.h:35:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/node_handle.h:32[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/mav_comm/mav_msgs/include/mav_msgs/conversions.h:32[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo/src/hovering_example.cpp:25[m[K:
+[01m[K/usr/local/include/boost/bind.hpp:41:1:[m[K [01;36m[Knote: [m[K#pragma message: The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+ [01;36m[K)[m[K
+ [01;36m[K^[m[K
+In file included from [01m[K/opt/ros/melodic/include/ros/publisher.h:35:0[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/node_handle.h:32[m[K,
+                 from [01m[K/opt/ros/melodic/include/ros/ros.h:45[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/mav_comm/mav_msgs/include/mav_msgs/conversions.h:32[m[K,
+                 from [01m[K/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo/src/waypoint_publisher_file.cpp:25[m[K:
+[01m[K/usr/local/include/boost/bind.hpp:41:1:[m[K [01;36m[Knote: [m[K#pragma message: The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+ [01;36m[K)[m[K
+ [01;36m[K^[m[K
+gz: symbol lookup error: /usr/lib/x86_64-linux-gnu/libgazebo_common.so.9: undefined symbol: _ZN8ignition10fuel_tools12ClientConfig12SetUserAgentERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE
+make[2]: *** [/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo/models/iris/iris.sdf] Error 127
+make[2]: *** Deleting file '/home/susiejojo/catkin_ws/src/rotors_simulator/rotors_gazebo/models/iris/iris.sdf'
+make[1]: *** [CMakeFiles/sdf.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make: *** [all] Error 2
